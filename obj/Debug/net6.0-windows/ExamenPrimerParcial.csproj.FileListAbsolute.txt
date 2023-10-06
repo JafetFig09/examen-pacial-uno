@@ -1,0 +1,16 @@
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net6.0-windows\ExamenPrimerParcial.exe
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net6.0-windows\ExamenPrimerParcial.deps.json
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net6.0-windows\ExamenPrimerParcial.runtimeconfig.json
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net6.0-windows\ExamenPrimerParcial.dll
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\bin\Debug\net6.0-windows\ExamenPrimerParcial.pdb
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.Form1.resources
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.csproj.GenerateResource.cache
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.AssemblyInfoInputs.cache
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.AssemblyInfo.cs
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.dll
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\refint\ExamenPrimerParcial.dll
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.pdb
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ExamenPrimerParcial.genruntimeconfig.cache
+C:\Users\jafet\Desktop\ExamenPrimerParcial\ExamenPrimerParcial\obj\Debug\net6.0-windows\ref\ExamenPrimerParcial.dll
